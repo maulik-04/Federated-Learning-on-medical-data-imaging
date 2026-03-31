@@ -67,4 +67,4 @@ We will repeat steps 2-5 for multiple rounds.
 
 ![](result.png)
 
-Results are not very good because due to lack of computational resources, I have just trained for 2 rounds.
+Refer to the report for full understanding.
